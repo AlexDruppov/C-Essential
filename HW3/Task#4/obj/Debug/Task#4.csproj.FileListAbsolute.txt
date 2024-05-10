@@ -1,0 +1,7 @@
+C:\Users\drupp\source\repos\C# Essential_HW_3\Task#4\bin\Debug\Task#4.exe.config
+C:\Users\drupp\source\repos\C# Essential_HW_3\Task#4\bin\Debug\Task#4.exe
+C:\Users\drupp\source\repos\C# Essential_HW_3\Task#4\bin\Debug\Task#4.pdb
+C:\Users\drupp\source\repos\C# Essential_HW_3\Task#4\obj\Debug\Task#4.csproj.AssemblyReference.cache
+C:\Users\drupp\source\repos\C# Essential_HW_3\Task#4\obj\Debug\Task#4.csproj.CoreCompileInputs.cache
+C:\Users\drupp\source\repos\C# Essential_HW_3\Task#4\obj\Debug\Task#4.exe
+C:\Users\drupp\source\repos\C# Essential_HW_3\Task#4\obj\Debug\Task#4.pdb
