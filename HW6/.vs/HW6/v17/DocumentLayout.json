@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drupp\\source\\repos\\HW6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8494F5-7ABA-48F0-9FC7-B1688F8D65CB}|Task#6\\Task#6.csproj|c:\\users\\drupp\\source\\repos\\hw6\\task#6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8494F5-7ABA-48F0-9FC7-B1688F8D65CB}|Task#6\\Task#6.csproj|solutionrelative:task#6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8494F5-7ABA-48F0-9FC7-B1688F8D65CB}|Task#6\\Task#6.csproj|c:\\users\\drupp\\source\\repos\\hw6\\task#6\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8494F5-7ABA-48F0-9FC7-B1688F8D65CB}|Task#6\\Task#6.csproj|solutionrelative:task#6\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\drupp\\source\\repos\\HW6\\Task#6\\Calculator.cs",
+              "RelativeDocumentMoniker": "Task#6\\Calculator.cs",
+              "ToolTip": "C:\\Users\\drupp\\source\\repos\\HW6\\Task#6\\Calculator.cs",
+              "RelativeToolTip": "Task#6\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:50:07.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\drupp\\source\\repos\\HW6\\Task#6\\Program.cs",
+              "RelativeDocumentMoniker": "Task#6\\Program.cs",
+              "ToolTip": "C:\\Users\\drupp\\source\\repos\\HW6\\Task#6\\Program.cs",
+              "RelativeToolTip": "Task#6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:48:58.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
