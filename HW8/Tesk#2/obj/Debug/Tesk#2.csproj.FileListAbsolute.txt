@@ -1,0 +1,7 @@
+D:\Intern\C#\3. C# Essential\8. Структури та його різновиди. Перерахування\HW8\Tesk#2\bin\Debug\Tesk#2.exe.config
+D:\Intern\C#\3. C# Essential\8. Структури та його різновиди. Перерахування\HW8\Tesk#2\bin\Debug\Tesk#2.exe
+D:\Intern\C#\3. C# Essential\8. Структури та його різновиди. Перерахування\HW8\Tesk#2\bin\Debug\Tesk#2.pdb
+D:\Intern\C#\3. C# Essential\8. Структури та його різновиди. Перерахування\HW8\Tesk#2\obj\Debug\Tesk#2.csproj.AssemblyReference.cache
+D:\Intern\C#\3. C# Essential\8. Структури та його різновиди. Перерахування\HW8\Tesk#2\obj\Debug\Tesk#2.csproj.CoreCompileInputs.cache
+D:\Intern\C#\3. C# Essential\8. Структури та його різновиди. Перерахування\HW8\Tesk#2\obj\Debug\Tesk#2.exe
+D:\Intern\C#\3. C# Essential\8. Структури та його різновиди. Перерахування\HW8\Tesk#2\obj\Debug\Tesk#2.pdb
