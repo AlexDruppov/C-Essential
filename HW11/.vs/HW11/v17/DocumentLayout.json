@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Intern\\C#\\3. C# Essential\\11. \u041E\u0431\u043C\u0435\u0436\u0435\u043D\u043D\u044F \u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u0438\u0445 \u0448\u0430\u0431\u043B\u043E\u043D\u0456\u0432\\HW11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A05C8311-0BBC-4C92-A746-81338D80C9B9}|Task#7\\Task#7.csproj|d:\\intern\\c#\\3. c# essential\\11. \u043E\u0431\u043C\u0435\u0436\u0435\u043D\u043D\u044F \u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u0438\u0445 \u0448\u0430\u0431\u043B\u043E\u043D\u0456\u0432\\hw11\\task#7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05C8311-0BBC-4C92-A746-81338D80C9B9}|Task#7\\Task#7.csproj|solutionrelative:task#7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05C8311-0BBC-4C92-A746-81338D80C9B9}|Task#7\\Task#7.csproj|d:\\intern\\c#\\3. c# essential\\11. \u043E\u0431\u043C\u0435\u0436\u0435\u043D\u043D\u044F \u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u0438\u0445 \u0448\u0430\u0431\u043B\u043E\u043D\u0456\u0432\\hw11\\task#7\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05C8311-0BBC-4C92-A746-81338D80C9B9}|Task#7\\Task#7.csproj|solutionrelative:task#7\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Intern\\C#\\3. C# Essential\\11. \u041E\u0431\u043C\u0435\u0436\u0435\u043D\u043D\u044F \u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u0438\u0445 \u0448\u0430\u0431\u043B\u043E\u043D\u0456\u0432\\HW11\\Task#7\\Program.cs",
+              "RelativeDocumentMoniker": "Task#7\\Program.cs",
+              "ToolTip": "D:\\Intern\\C#\\3. C# Essential\\11. \u041E\u0431\u043C\u0435\u0436\u0435\u043D\u043D\u044F \u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u0438\u0445 \u0448\u0430\u0431\u043B\u043E\u043D\u0456\u0432\\HW11\\Task#7\\Program.cs",
+              "RelativeToolTip": "Task#7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:48:29.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyClass.cs",
+              "DocumentMoniker": "D:\\Intern\\C#\\3. C# Essential\\11. \u041E\u0431\u043C\u0435\u0436\u0435\u043D\u043D\u044F \u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u0438\u0445 \u0448\u0430\u0431\u043B\u043E\u043D\u0456\u0432\\HW11\\Task#7\\MyClass.cs",
+              "RelativeDocumentMoniker": "Task#7\\MyClass.cs",
+              "ToolTip": "D:\\Intern\\C#\\3. C# Essential\\11. \u041E\u0431\u043C\u0435\u0436\u0435\u043D\u043D\u044F \u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u0438\u0445 \u0448\u0430\u0431\u043B\u043E\u043D\u0456\u0432\\HW11\\Task#7\\MyClass.cs",
+              "RelativeToolTip": "Task#7\\MyClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:47:44.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\Intern\C#\3. C# Essential\11. Обмеження універсальних шаблонів\HW11\Task#6\bin\Debug\Task#6.exe.config
+D:\Intern\C#\3. C# Essential\11. Обмеження універсальних шаблонів\HW11\Task#6\bin\Debug\Task#6.exe
+D:\Intern\C#\3. C# Essential\11. Обмеження універсальних шаблонів\HW11\Task#6\bin\Debug\Task#6.pdb
+D:\Intern\C#\3. C# Essential\11. Обмеження універсальних шаблонів\HW11\Task#6\obj\Debug\Task#6.csproj.AssemblyReference.cache
+D:\Intern\C#\3. C# Essential\11. Обмеження універсальних шаблонів\HW11\Task#6\obj\Debug\Task#6.csproj.CoreCompileInputs.cache
+D:\Intern\C#\3. C# Essential\11. Обмеження універсальних шаблонів\HW11\Task#6\obj\Debug\Task#6.exe
+D:\Intern\C#\3. C# Essential\11. Обмеження універсальних шаблонів\HW11\Task#6\obj\Debug\Task#6.pdb
