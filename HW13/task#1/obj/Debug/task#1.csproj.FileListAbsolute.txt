@@ -1,0 +1,7 @@
+D:\Intern\C#\3. C# Essential\13. Потоки\HW13\task#1\bin\Debug\task#1.exe.config
+D:\Intern\C#\3. C# Essential\13. Потоки\HW13\task#1\bin\Debug\task#1.exe
+D:\Intern\C#\3. C# Essential\13. Потоки\HW13\task#1\bin\Debug\task#1.pdb
+D:\Intern\C#\3. C# Essential\13. Потоки\HW13\task#1\obj\Debug\task#1.csproj.AssemblyReference.cache
+D:\Intern\C#\3. C# Essential\13. Потоки\HW13\task#1\obj\Debug\task#1.csproj.CoreCompileInputs.cache
+D:\Intern\C#\3. C# Essential\13. Потоки\HW13\task#1\obj\Debug\task#1.exe
+D:\Intern\C#\3. C# Essential\13. Потоки\HW13\task#1\obj\Debug\task#1.pdb
