@@ -1,0 +1,7 @@
+D:\Intern\C#\3. C# Essential\14. Колекції\HW16\Task#4\bin\Debug\Task#4.exe.config
+D:\Intern\C#\3. C# Essential\14. Колекції\HW16\Task#4\bin\Debug\Task#4.exe
+D:\Intern\C#\3. C# Essential\14. Колекції\HW16\Task#4\bin\Debug\Task#4.pdb
+D:\Intern\C#\3. C# Essential\14. Колекції\HW16\Task#4\obj\Debug\Task#4.csproj.AssemblyReference.cache
+D:\Intern\C#\3. C# Essential\14. Колекції\HW16\Task#4\obj\Debug\Task#4.csproj.CoreCompileInputs.cache
+D:\Intern\C#\3. C# Essential\14. Колекції\HW16\Task#4\obj\Debug\Task#4.exe
+D:\Intern\C#\3. C# Essential\14. Колекції\HW16\Task#4\obj\Debug\Task#4.pdb
