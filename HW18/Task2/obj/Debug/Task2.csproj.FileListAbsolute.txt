@@ -1,0 +1,7 @@
+D:\Intern\C#\3. C# Essential\17. Анонімні та динамічні типи. LINQ\HW18\Task2\bin\Debug\Task2.exe.config
+D:\Intern\C#\3. C# Essential\17. Анонімні та динамічні типи. LINQ\HW18\Task2\bin\Debug\Task2.exe
+D:\Intern\C#\3. C# Essential\17. Анонімні та динамічні типи. LINQ\HW18\Task2\bin\Debug\Task2.pdb
+D:\Intern\C#\3. C# Essential\17. Анонімні та динамічні типи. LINQ\HW18\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+D:\Intern\C#\3. C# Essential\17. Анонімні та динамічні типи. LINQ\HW18\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\Intern\C#\3. C# Essential\17. Анонімні та динамічні типи. LINQ\HW18\Task2\obj\Debug\Task2.exe
+D:\Intern\C#\3. C# Essential\17. Анонімні та динамічні типи. LINQ\HW18\Task2\obj\Debug\Task2.pdb
